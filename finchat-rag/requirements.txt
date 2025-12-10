@@ -1,1 +1,11 @@
 openai
+
+
+# Vector DB options (choose one). They're left commented so you can enable the one you want.
+# Faiss (CPU) - lightweight, fast, pure local in-memory vectors. On macOS use `faiss-cpu`.
+# Uncomment to enable:
+# faiss-cpu
+
+# Chroma - feature-rich open-source vector DB (can persist to disk, has Python client).
+# Uncomment to enable:
+# chromadb
