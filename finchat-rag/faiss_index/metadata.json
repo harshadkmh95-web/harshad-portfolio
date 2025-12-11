@@ -1,0 +1,21 @@
+{
+  "texts": [
+    "Company X - Annual Report Highlights (2023) Financial Performance: The company generated annual revenue of $15.6 billion in 2023, representing an 8% year-over-year growth. Net income for the full year was $2.1 billion. Strategic Priorities: 1. Expand into international markets. 2. Increase investments in AI-powered automation. 3. Improve customer retention through better user experience. Risk Factors: The company faces risks related to macroeconomic conditions, foreign exchange fluctuations, and increased competition in its core product segments. Outlook: Management expects revenue to grow between 6% and 10% in 2024.",
+    "Company X - Q1 2024 Earnings Summary Revenue: Company X reported total revenue of $4.2 billion for Q1 2024, an increase of 12% compared to the previous quarter. The main drivers were growth in digital services and increased subscription renewals. Net Income: Net income for the quarter reached $650 million, up from $580 million in Q4 2023. This improvement was mainly due to cost optimization in operations. Key Metrics: - Gross Margin: 58% - Operating Margin: 22% - EPS: $1.45 - Cash Flow from Operations: $730 million Management Commentary: Leadership noted strong market demand and expects similar growth trends in the next quarter.",
+    "FinChat Overview FinChat is an AI-powered financial assistant designed to help users analyze company performance, understand financial statements, and generate insights from market data. Key Features: 1. Summarizes quarterly and annual reports. 2. Answers finance-related questions using retrieval-augmented generation. 3. Provides insights on revenue, profit, risk factors, and cash flow. 4. Helps users interpret financial metrics such as EPS, EBITDA, ROE, and Net Margin. FinChat is mainly used by analysts who want quick explanations generated from corporate filings."
+  ],
+  "metadatas": [
+    {
+      "source": "finchat-rag/data/annual_report_highlights.txt",
+      "chunk_id": 0
+    },
+    {
+      "source": "finchat-rag/data/company_q1_earnings.txt",
+      "chunk_id": 0
+    },
+    {
+      "source": "finchat-rag/data/finchat_overview.txt",
+      "chunk_id": 0
+    }
+  ]
+}

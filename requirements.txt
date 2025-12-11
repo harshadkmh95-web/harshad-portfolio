@@ -1,0 +1,6 @@
+openai>=1.0.0
+faiss-cpu>=1.7.4
+python-dotenv
+tqdm
+pdfplumber
+numpy
